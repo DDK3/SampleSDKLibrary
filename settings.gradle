@@ -1,0 +1,3 @@
+include ':ohmassistantSDK'
+include ':app'
+rootProject.name = "SDK Sample Application"
